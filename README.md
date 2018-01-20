@@ -1,5 +1,5 @@
 # CPPoo
-A python input redirection script for 3ds
+A python input redirection script for 3ds using @hlixed [TPPFLUSH](https://github.com/hlixed/TPPFLUSH)'s library
 
 There are three versions of roughly the same script. Each script has a slightly different layouts for axes (see controller diagrams in BUTTONLAYOUTS/ for actual button layouts).  
 **CPPoo.py** is for games that allow the buttons to move the player or camera 
